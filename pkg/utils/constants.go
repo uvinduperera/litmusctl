@@ -52,10 +52,10 @@ const (
 	MemberEditorRole = "Editor"
 
 	// Default namespace for infra installation
-	DefaultNs = "litmus"
+	DefaultNs = "default"
 
 	// Default service account used for infra installation
-	DefaultSA = "litmus"
+	DefaultSA = "litmus-server-account"
 
 	// Chaos infra connection yaml path
 	ChaosYamlPath = "/api/file"
